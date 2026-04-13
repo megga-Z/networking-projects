@@ -1,4 +1,4 @@
-This lab implements a three-tier enterprise campus network architecture using Cisco 
+This project implements a three-tier enterprise campus network architecture using Cisco 
 switches. The design separates the network into Core, Distribution, and Access layers 
 to improve scalability, redundancy, and performance.
 The lab demonstrates the implementation of:
